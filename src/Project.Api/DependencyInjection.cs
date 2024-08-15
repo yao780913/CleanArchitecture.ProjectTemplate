@@ -49,7 +49,7 @@ public static class DependencyInjection
             {
                 // options.SwaggerDoc("v1", new OpenApiInfo
                 // {
-                //     Title = "PTR API"
+                //     Title = "API"
                 // });
                 // options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
                 // {

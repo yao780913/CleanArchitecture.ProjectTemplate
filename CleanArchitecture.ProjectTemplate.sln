@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Api", "src\Project.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Application", "src\Project.Application\Project.Application.csproj", "{DE8C2213-F357-4DA8-8A33-BCC7182A21AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Constracts", "src\Project.Constracts\Project.Constracts.csproj", "{1B58C190-C4A3-4614-B2C1-5E711C547006}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Contracts", "src\Project.Contracts\Project.Contracts.csproj", "{1B58C190-C4A3-4614-B2C1-5E711C547006}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project.Domain", "src\Project.Domain\Project.Domain.csproj", "{BC57B439-9C75-48C6-9139-D967E1EF3057}"
 EndProject
